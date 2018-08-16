@@ -4,7 +4,7 @@ Print documents using React Native.
 
 ## Installation
 
-Run `npm install react-native-print --save`
+Run `npm install github:Psyycker/react-native-print#master --save`
 
 ## Add it to your project
 
